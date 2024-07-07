@@ -22,12 +22,12 @@ The College ERP (Enterprise Resource Planning) System is designed to manage vari
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/college-erp.git
+   git clone https://github.com/TejasA-bot/College-ERP.git
    cd college-erp
 
 2. **Database Setup**
    
-   String url = "jdbc:mysql://localhost:3306/college_erp";
+   String url = "jdbc:mysql://localhost:3306/college-ERP";
 String username = "your_username";
 String password = "your_password";
 
