@@ -40,4 +40,5 @@ And use ums.sql file.
 ## Contributors
 
 - [Tejas Anarse](https://github.com/TejasA-bot)
+- [Atharv Desai](https://github.com/Atharv-D)
 
